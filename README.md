@@ -1,1 +1,3 @@
 # GameJam2023
+
+🚀 Immerse yourself in the captivating world of EpicQuest! This groundbreaking game seamlessly fuses the excitement of a platform adventure with the intrigue of a graphic novel. Join our trio of protagonists as they navigate a realm of puzzles, dynamic dialogues, and thrilling challenges. Every decision you make alters the course of their destinies, creating a narrative tapestry that unfolds with each choice. As you progress, witness the characters' lives intertwine, symbolized by bridges that signify the impact of your actions. EpicQuest isn't just a game; it's an exploration of interconnected stories waiting for you to uncover. Are you ready to shape the fate of our heroes? Embark on this epic journey now! 🎮✨
